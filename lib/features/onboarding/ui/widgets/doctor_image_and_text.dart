@@ -27,6 +27,7 @@ class DoctorImageAndText extends StatelessWidget {
           ),
           child: Image.asset('assets/images/onboarding_doctor.png'),
         ),
+        // dacsd
         Positioned(
           bottom: 20,
           left: 0,
